@@ -1,0 +1,247 @@
+[2025-07-02 09:06:18.245292] SSID: None
+[2025-07-02 09:06:18.248209] IP: 10.152.96.24
+[2025-07-02 09:06:18.248261] Nie wykryto hotspotu.
+[2025-07-02 09:06:18.250152] Ekran NIE jest zablokowany.
+[2025-07-02 09:06:18.250197] Stan: hotspot=False, locked=False
+[2025-07-02 09:06:23.264141] SSID: None
+[2025-07-02 09:06:23.271066] IP: 10.152.96.24
+[2025-07-02 09:06:23.271306] Nie wykryto hotspotu.
+[2025-07-02 09:06:23.271914] Ekran NIE jest zablokowany.
+[2025-07-02 09:06:23.272087] Stan: hotspot=False, locked=False
+[2025-07-02 09:06:28.288282] SSID: None
+[2025-07-02 09:06:28.295065] IP: 172.20.10.2
+[2025-07-02 09:06:28.295139] Wykryto hotspot po IP!
+[2025-07-02 09:06:28.295455] Ekran NIE jest zablokowany.
+[2025-07-02 09:06:28.295498] Stan: hotspot=True, locked=False
+[2025-07-02 09:06:33.309545] SSID: None
+[2025-07-02 09:06:33.316436] IP: 172.20.10.2
+[2025-07-02 09:06:33.316622] Wykryto hotspot po IP!
+[2025-07-02 09:06:33.317152] Ekran zablokowany!
+[2025-07-02 09:06:33.317252] Stan: hotspot=True, locked=True
+[2025-07-02 09:06:33.489505] Rozłączono Wi-Fi!
+[2025-07-02 09:06:48.509452] SSID: None
+[2025-07-02 09:06:48.515218] IP: None
+[2025-07-02 09:06:48.515407] Nie wykryto hotspotu.
+[2025-07-02 09:06:48.516047] Ekran NIE jest zablokowany.
+[2025-07-02 09:06:48.516215] Stan: hotspot=False, locked=False
+[2025-07-02 09:06:48.587610] Włączono Wi-Fi!
+[2025-07-02 09:06:53.603646] SSID: None
+[2025-07-02 09:06:53.607564] IP: 10.152.96.24
+[2025-07-02 09:06:53.607653] Nie wykryto hotspotu.
+[2025-07-02 09:06:53.607926] Ekran NIE jest zablokowany.
+[2025-07-02 09:06:53.607976] Stan: hotspot=False, locked=False
+[2025-07-02 09:06:58.620804] SSID: None
+[2025-07-02 09:06:58.626704] IP: 10.152.96.24
+[2025-07-02 09:06:58.626880] Nie wykryto hotspotu.
+[2025-07-02 09:06:58.627401] Ekran NIE jest zablokowany.
+[2025-07-02 09:06:58.627524] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:03.633352] SSID: None
+[2025-07-02 09:07:03.635875] IP: 10.152.96.24
+[2025-07-02 09:07:03.635933] Nie wykryto hotspotu.
+[2025-07-02 09:07:03.636143] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:03.636170] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:08.651729] SSID: None
+[2025-07-02 09:07:08.660058] IP: 10.152.96.24
+[2025-07-02 09:07:08.660174] Nie wykryto hotspotu.
+[2025-07-02 09:07:08.660529] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:08.660578] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:13.676173] SSID: None
+[2025-07-02 09:07:13.684223] IP: 10.152.96.24
+[2025-07-02 09:07:13.684339] Nie wykryto hotspotu.
+[2025-07-02 09:07:13.684692] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:13.684743] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:18.699971] SSID: None
+[2025-07-02 09:07:18.706037] IP: 10.152.96.24
+[2025-07-02 09:07:18.706216] Nie wykryto hotspotu.
+[2025-07-02 09:07:18.706692] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:18.706759] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:23.719506] SSID: None
+[2025-07-02 09:07:23.723262] IP: 10.152.96.24
+[2025-07-02 09:07:23.723339] Nie wykryto hotspotu.
+[2025-07-02 09:07:23.723673] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:23.723722] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:28.735707] SSID: None
+[2025-07-02 09:07:28.739047] IP: 10.152.96.24
+[2025-07-02 09:07:28.739104] Nie wykryto hotspotu.
+[2025-07-02 09:07:28.739313] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:28.739341] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:33.755381] SSID: None
+[2025-07-02 09:07:33.762355] IP: 10.152.96.24
+[2025-07-02 09:07:33.762460] Nie wykryto hotspotu.
+[2025-07-02 09:07:33.762801] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:33.762852] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:38.776050] SSID: None
+[2025-07-02 09:07:38.781388] IP: 10.152.96.24
+[2025-07-02 09:07:38.781483] Nie wykryto hotspotu.
+[2025-07-02 09:07:38.781768] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:38.781819] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:43.796094] SSID: None
+[2025-07-02 09:07:43.802621] IP: 10.152.96.24
+[2025-07-02 09:07:43.802741] Nie wykryto hotspotu.
+[2025-07-02 09:07:43.803081] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:43.803169] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:48.819197] SSID: None
+[2025-07-02 09:07:48.824193] IP: 10.152.96.24
+[2025-07-02 09:07:48.824272] Nie wykryto hotspotu.
+[2025-07-02 09:07:48.824512] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:48.824543] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:53.832768] SSID: None
+[2025-07-02 09:07:53.835506] IP: 10.152.96.24
+[2025-07-02 09:07:53.835553] Nie wykryto hotspotu.
+[2025-07-02 09:07:53.835761] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:53.835789] Stan: hotspot=False, locked=False
+[2025-07-02 09:07:58.855855] SSID: None
+[2025-07-02 09:07:58.859986] IP: 10.152.96.24
+[2025-07-02 09:07:58.860059] Nie wykryto hotspotu.
+[2025-07-02 09:07:58.860319] Ekran NIE jest zablokowany.
+[2025-07-02 09:07:58.860351] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:03.872952] SSID: None
+[2025-07-02 09:08:03.877803] IP: 10.152.96.24
+[2025-07-02 09:08:03.877933] Nie wykryto hotspotu.
+[2025-07-02 09:08:03.882788] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:03.882867] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:08.898430] SSID: None
+[2025-07-02 09:08:08.905700] IP: 10.152.96.24
+[2025-07-02 09:08:08.905825] Nie wykryto hotspotu.
+[2025-07-02 09:08:08.906209] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:08.906264] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:13.924141] SSID: None
+[2025-07-02 09:08:13.929932] IP: 10.152.96.24
+[2025-07-02 09:08:13.930048] Nie wykryto hotspotu.
+[2025-07-02 09:08:13.934031] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:13.934086] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:18.949746] SSID: None
+[2025-07-02 09:08:18.956346] IP: 10.152.96.24
+[2025-07-02 09:08:18.956474] Nie wykryto hotspotu.
+[2025-07-02 09:08:18.956892] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:18.956967] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:23.978148] SSID: None
+[2025-07-02 09:08:23.984167] IP: 10.152.96.24
+[2025-07-02 09:08:23.984277] Nie wykryto hotspotu.
+[2025-07-02 09:08:23.984634] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:23.984692] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:29.002016] SSID: None
+[2025-07-02 09:08:29.008384] IP: 10.152.96.24
+[2025-07-02 09:08:29.008510] Nie wykryto hotspotu.
+[2025-07-02 09:08:29.009014] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:29.009115] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:34.024303] SSID: None
+[2025-07-02 09:08:34.030887] IP: 10.152.96.24
+[2025-07-02 09:08:34.030996] Nie wykryto hotspotu.
+[2025-07-02 09:08:34.034377] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:34.034476] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:39.047623] SSID: None
+[2025-07-02 09:08:39.053023] IP: 10.152.96.24
+[2025-07-02 09:08:39.053112] Nie wykryto hotspotu.
+[2025-07-02 09:08:39.053458] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:39.053512] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:44.070965] SSID: None
+[2025-07-02 09:08:44.077413] IP: 10.152.96.24
+[2025-07-02 09:08:44.077585] Nie wykryto hotspotu.
+[2025-07-02 09:08:44.083652] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:44.083777] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:49.102045] SSID: None
+[2025-07-02 09:08:49.109994] IP: 10.152.96.24
+[2025-07-02 09:08:49.110183] Nie wykryto hotspotu.
+[2025-07-02 09:08:49.110865] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:49.110978] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:54.129538] SSID: None
+[2025-07-02 09:08:54.135542] IP: 10.152.96.24
+[2025-07-02 09:08:54.135637] Nie wykryto hotspotu.
+[2025-07-02 09:08:54.136054] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:54.136109] Stan: hotspot=False, locked=False
+[2025-07-02 09:08:59.152142] SSID: None
+[2025-07-02 09:08:59.158380] IP: 10.152.96.24
+[2025-07-02 09:08:59.158538] Nie wykryto hotspotu.
+[2025-07-02 09:08:59.159032] Ekran NIE jest zablokowany.
+[2025-07-02 09:08:59.159133] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:04.177198] SSID: None
+[2025-07-02 09:09:04.182694] IP: 10.152.96.24
+[2025-07-02 09:09:04.182789] Nie wykryto hotspotu.
+[2025-07-02 09:09:04.183173] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:04.183320] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:09.198096] SSID: None
+[2025-07-02 09:09:09.205717] IP: 10.152.96.24
+[2025-07-02 09:09:09.205944] Nie wykryto hotspotu.
+[2025-07-02 09:09:09.206550] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:09.206658] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:14.222381] SSID: None
+[2025-07-02 09:09:14.228752] IP: 10.152.96.24
+[2025-07-02 09:09:14.228920] Nie wykryto hotspotu.
+[2025-07-02 09:09:14.234472] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:14.234590] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:19.249443] SSID: None
+[2025-07-02 09:09:19.256441] IP: 10.152.96.24
+[2025-07-02 09:09:19.256574] Nie wykryto hotspotu.
+[2025-07-02 09:09:19.257026] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:19.257127] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:24.274701] SSID: None
+[2025-07-02 09:09:24.282629] IP: 10.152.96.24
+[2025-07-02 09:09:24.282824] Nie wykryto hotspotu.
+[2025-07-02 09:09:24.284626] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:24.284736] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:29.298398] SSID: None
+[2025-07-02 09:09:29.304813] IP: 10.152.96.24
+[2025-07-02 09:09:29.304949] Nie wykryto hotspotu.
+[2025-07-02 09:09:29.305555] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:29.305676] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:34.320983] SSID: None
+[2025-07-02 09:09:34.327748] IP: 10.152.96.24
+[2025-07-02 09:09:34.327881] Nie wykryto hotspotu.
+[2025-07-02 09:09:34.334298] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:34.334414] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:39.352232] SSID: None
+[2025-07-02 09:09:39.359225] IP: 10.152.96.24
+[2025-07-02 09:09:39.359388] Nie wykryto hotspotu.
+[2025-07-02 09:09:39.359967] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:39.360078] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:44.377493] SSID: None
+[2025-07-02 09:09:44.385535] IP: 10.152.96.24
+[2025-07-02 09:09:44.385729] Nie wykryto hotspotu.
+[2025-07-02 09:09:44.386268] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:44.386399] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:49.402813] SSID: None
+[2025-07-02 09:09:49.409931] IP: 10.152.96.24
+[2025-07-02 09:09:49.410085] Nie wykryto hotspotu.
+[2025-07-02 09:09:49.410685] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:49.410795] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:54.424514] SSID: None
+[2025-07-02 09:09:54.430427] IP: 10.152.96.24
+[2025-07-02 09:09:54.430547] Nie wykryto hotspotu.
+[2025-07-02 09:09:54.431618] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:54.431685] Stan: hotspot=False, locked=False
+[2025-07-02 09:09:59.447213] SSID: None
+[2025-07-02 09:09:59.455455] IP: 10.152.96.24
+[2025-07-02 09:09:59.455636] Nie wykryto hotspotu.
+[2025-07-02 09:09:59.456253] Ekran NIE jest zablokowany.
+[2025-07-02 09:09:59.456361] Stan: hotspot=False, locked=False
+[2025-07-02 09:10:04.468131] SSID: None
+[2025-07-02 09:10:04.473705] IP: 10.152.96.24
+[2025-07-02 09:10:04.473829] Nie wykryto hotspotu.
+[2025-07-02 09:10:04.474252] Ekran NIE jest zablokowany.
+[2025-07-02 09:10:04.474344] Stan: hotspot=False, locked=False
+[2025-07-02 09:10:09.488755] SSID: None
+[2025-07-02 09:10:09.494967] IP: 10.152.96.24
+[2025-07-02 09:10:09.495163] Nie wykryto hotspotu.
+[2025-07-02 09:10:09.501677] Ekran NIE jest zablokowany.
+[2025-07-02 09:10:09.501802] Stan: hotspot=False, locked=False
+[2025-07-02 09:10:14.519379] SSID: None
+[2025-07-02 09:10:14.526203] IP: 10.152.96.24
+[2025-07-02 09:10:14.526360] Nie wykryto hotspotu.
+[2025-07-02 09:10:14.526858] Ekran NIE jest zablokowany.
+[2025-07-02 09:10:14.526940] Stan: hotspot=False, locked=False
+[2025-07-02 09:10:19.545080] SSID: None
+[2025-07-02 09:10:19.552493] IP: 10.152.96.24
+[2025-07-02 09:10:19.552717] Nie wykryto hotspotu.
+[2025-07-02 09:10:19.553302] Ekran NIE jest zablokowany.
+[2025-07-02 09:10:19.553405] Stan: hotspot=False, locked=False
+[2025-07-02 09:10:24.569458] SSID: None
+[2025-07-02 09:10:24.577192] IP: 10.152.96.24
+[2025-07-02 09:10:24.577354] Nie wykryto hotspotu.
+[2025-07-02 09:10:24.583557] Ekran NIE jest zablokowany.
+[2025-07-02 09:10:24.583666] Stan: hotspot=False, locked=False
+[2025-07-02 09:10:29.598395] SSID: None
+[2025-07-02 09:10:29.603818] IP: 10.152.96.24
+[2025-07-02 09:10:29.603942] Nie wykryto hotspotu.
+[2025-07-02 09:10:29.604322] Ekran NIE jest zablokowany.
+[2025-07-02 09:10:29.604417] Stan: hotspot=False, locked=False
